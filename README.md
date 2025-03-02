@@ -1,5 +1,4 @@
 # FilmFusion-ReactRouter
-
 Project Description:
 FilmFusion-ReactRouter is a React-based movie search app that utilizes the IMDB API to fetch and display movie details dynamically. This project is designed to help you master React Router DOM v6, API integration, and UI rendering while building an interactive movie search platform.
 
